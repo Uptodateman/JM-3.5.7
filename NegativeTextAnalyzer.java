@@ -1,5 +1,3 @@
-package Ex3dot5dot7;
-
 //АНТИГРУСТЬ
 public class NegativeTextAnalyzer extends KeywordAnalyzer {
     private String[] keywords;
