@@ -1,5 +1,3 @@
-package Ex3dot5dot7;
-
 //АНТИПРОСТЫНЬ
 public class TooLongTextAnalyzer implements TextAnalyzer {
     private int maxLength;
