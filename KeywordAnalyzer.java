@@ -1,5 +1,3 @@
-package Ex3dot5dot7;
-
 //КЛАСС-ПРЕДОК ДЛЯ АНТИСПАМ И АНТИГРУСТЬ
 public abstract class KeywordAnalyzer implements TextAnalyzer {
 
