@@ -1,5 +1,3 @@
-package Ex3dot5dot7;
-
 //АНТИСПАМ
 public class SpamAnalyzer extends KeywordAnalyzer{
     private String[] keywords;
